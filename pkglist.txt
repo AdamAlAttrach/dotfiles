@@ -34,6 +34,7 @@ networkmanager
 noto-fonts-cjk
 nvidia
 obs-studio
+openssh
 otf-font-awesome
 pavucontrol
 pipewire-alsa
