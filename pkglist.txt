@@ -22,6 +22,7 @@ hyprlang
 hyprpolkitagent
 hyprutils
 hyprwayland-scanner
+inotify-tools
 libappindicator-gtk3
 libgirepository
 linux
