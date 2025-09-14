@@ -44,6 +44,7 @@ qt5-wayland
 rofi
 scdoc
 slurp
+spotify-launcher
 steam
 sudo
 waybar
